@@ -13,28 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Week 11/Slides/02 - Wednesday.md",
+                "file": "Week 12/Slides/01 - Monday.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Wednesday"
-            }
-          },
-          {
-            "id": "be75792762043ef8",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "01 - Monday"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -187,20 +174,24 @@
       "slides-extended:Show slide preview": false
     }
   },
-  "active": "385df65699b3bd00",
+  "active": "143dbc154024385b",
   "lastOpenFiles": [
-    "Week 11/Slides/01 - Monday.md",
+    "images/smallmatter.png",
+    "Week 12/Slides/02 - Wednesday.md",
+    "Week 12/Slides/01 - Monday.md",
+    "images/talescrystals.png",
+    "images/talescrystls.png",
+    "images/itreallydo.png",
+    "images/nightmare.png",
+    "images/timecube.png",
+    "images/analysisparalysis.png",
+    "images/makeitso.png",
     "Week 11/Slides/02 - Wednesday.md",
+    "Week 12/Slides/03 - Friday.md",
+    "Week 11/Slides/01 - Monday.md",
     "images/Pasted image 20251109153520.png",
     "images/Pasted image 20251104170849.png",
     "images/Pasted image 20251109152359.png",
-    "images/Pasted image 20251109152738.png",
-    "images/Pasted image 20251104171223.png",
-    "images/Pasted image 20251109153233.png",
-    "images/Pasted image 20251109152620.png",
-    "images/Screenshot 2025-10-17 at 10.46.03 AM.png",
-    "images/players world interacting acting.png",
-    "images/Pasted image 20251109152222.png",
     "Week 11/00 - Notes and Links of Interest.md",
     "Week 11/Slides/03 - Friday.md",
     "00 - Administration/Developer Notebook/Developer Notebook Prompts.md",
@@ -221,9 +212,6 @@
     "Week 05/Slides/01 - Monday.md",
     "Week 07/Slides/01 - Monday.md",
     "Week 08/Slides/01 - Monday.md",
-    "Week 08/Slides/02 - Wednesday.md",
-    "Week 08/Slides/03 - Friday.md",
-    "Week 07/Slides/02 - Wednesday.md",
     "01 - Additional Readings/Schools of Design and Their Core Priorities _ Big Game Theory! _ BoardGameGeek.pdf",
     "images/dnd",
     "00 - Administration/Instructions and Game Files/One-Page RPGs/Unfinished Business.pdf",
